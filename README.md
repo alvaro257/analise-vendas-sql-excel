@@ -64,6 +64,9 @@ Na ordem de exibição (de cima para baixo), as tabelas correspondem respectivam
 
 > **Nota:** Os valores de Receita e Custo por País foram divididos por 1.000.000 (em milhões) para simplificar a leitura no gráfico.
 
+**📂 Quer explorar o resultado final?**  
+O arquivo Excel completo com o dashboard interativo e as tabelas dinâmicas está disponível na pasta [`excel/`](excel/). Fique à vontade para baixar o arquivo para a sua máquina e explorar a estrutura de perto!
+
 ## 📁 Estrutura do Repositório
 
 ```text
