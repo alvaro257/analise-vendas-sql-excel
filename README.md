@@ -51,13 +51,18 @@ O download do banco oficial (AdventureWorksDW2014.bak) pode ser feito direto pel
 
 ## 📊 Construção no Excel
 
-Com a conexão nativa criada no Excel apontando para a View do banco, criei a aba `ANÁLISE` com quatro Tabelas Dinâmicas para servir de base pros gráficos:
+Com a conexão nativa criada no Excel apontando para a View do banco, criei a aba `ANÁLISE` com quatro Tabelas Dinâmicas para servir de base pros gráficos. 
+
+Na ordem de exibição (de cima para baixo), as tabelas correspondem respectivamente a:
+
+1. **Porcentagem de vendas por Categoria:** Distribuição do total vendido entre os tipos de produto.
+2. **Volume de vendas por Mês:** Quantidade total de itens vendidos mês a mês ao longo do ano.
+3. **Distribuição por Gênero:** Proporção percentual de vendas entre o público feminino e masculino.
+4. **Receita e Custo por País:** Levantamento financeiro total agrupado por localização.
 
 ![Tabelas Dinâmicas de Apoio](img/analise.png)
 
 > **Nota:** Os valores de Receita e Custo por País foram divididos por 1.000.000 (em milhões) para simplificar a leitura no gráfico.
-
----
 
 ## 📁 Estrutura do Repositório
 
